@@ -1,5 +1,5 @@
 # FRANCISCO EDUARDO SOARES
-João Pessoa, Brasil | (83) 99904-3970 | <fco.eduardosoares@gmail.com> | [LinkedIn](https://linkedin.com/in/feduardosoares) | [GitHub](https://github.com/feduardosoares)
+João Pessoa, Brasil | (83) 99904-3970 | <fco.eduardosoares@gmail.com> | [LinkedIn](https://linkedin.com/in/feduardosoares)
 
 ## **RESUMO PROFISSIONAL**
 Analista de Dados com mais de 7 anos de experiência em Tecnologia da Informação, suporte a sistemas e análise de processos de negócio. Especializado em transformar dados brutos em insights estratégicos para tomada de decisão por meio de Python, SQL, Tableau, Pandas e modelagem de bancos de dados (MySQL, PostgreSQL). Histórico comprovado na otimização de fluxos tecnológicos, mapeamento de requisitos e capacitação de equipes, pronto para aplicar técnicas analíticas, EDA e ETL na resolução de desafios de negócio e melhoria contínua de processos.
