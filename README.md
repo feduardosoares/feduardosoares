@@ -46,4 +46,4 @@ Analista de Dados com mais de 7 anos de experiência em Tecnologia da Informaç�
 ## **FORMAÇÃO ACADÊMICA, CERTIFICAÇÕES E IDIOMAS**
 - **Programa de Análise de Dados (Bootcamp)** – Escola TripleTen | Concluído em 2026 (Python, SQL, Tableau, Pandas, ETL, EDA, Testes A/B)
 - **Tecnologia em Sistemas para Internet (Ensino Superior)** – Unipê | Janeiro de 2010 – Dezembro de 2013
-- **Certificações & Idiomas:** CTFL (Fundamentos do Teste de Software) | Português (Nativo) | Inglês (Intermediário)
+- **Idiomas:** Português (Nativo) | Inglês (Intermediário)
